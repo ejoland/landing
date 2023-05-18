@@ -1,0 +1,37 @@
+.container {
+  color: white;
+  width: 900px;
+  margin: auto;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1.5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.btn-green {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 25px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+}
+
+.text-center {
+  color: black;
+  text-align: center;
+}
+
+.card p {
+  opacity: .5;
+}
